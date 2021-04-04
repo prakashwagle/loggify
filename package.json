@@ -1,0 +1,25 @@
+{
+  "name": "loggify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "build":"tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashwagle/loggify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashwagle/loggify/issues"
+  },
+  "homepage": "https://github.com/prakashwagle/loggify#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
